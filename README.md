@@ -17,7 +17,7 @@ Datum: **07.12.2015.**<br>
 ###Opis projekta:
 ####Program dinamičkim programiranjem rješava problem u kojem svaka kategorija ima konačni broj podkategorija, a može se uzeti samo po jedan član tih podskupova.
 
-Više informacija u <a href="https://github.com/josip-milic/NASP-knapsack-group/blob/master/NASP_LAB2_dinamicko_programiranje_0036456339">dokumentaciji.</a>
+Više informacija u <a href="https://github.com/josip-milic/NASP-knapsack-group/blob/master/NASP_LAB2_dinamicko_programiranje_0036456339.pdf">dokumentaciji.</a>
 
 Programski jezik: C#
 
