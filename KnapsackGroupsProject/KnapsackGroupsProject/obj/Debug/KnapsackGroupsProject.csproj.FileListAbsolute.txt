@@ -1,0 +1,8 @@
+c:\users\josip\documents\visual studio 2015\Projects\KnapsackGroupsProject\KnapsackGroupsProject\bin\Debug\KnapsackGroupsProject.exe.config
+c:\users\josip\documents\visual studio 2015\Projects\KnapsackGroupsProject\KnapsackGroupsProject\bin\Debug\KnapsackGroupsProject.exe
+c:\users\josip\documents\visual studio 2015\Projects\KnapsackGroupsProject\KnapsackGroupsProject\bin\Debug\KnapsackGroupsProject.pdb
+c:\users\josip\documents\visual studio 2015\Projects\KnapsackGroupsProject\KnapsackGroupsProject\obj\Debug\KnapsackGroupsProject.csprojResolveAssemblyReference.cache
+c:\users\josip\documents\visual studio 2015\Projects\KnapsackGroupsProject\KnapsackGroupsProject\obj\Debug\KnapsackGroupsProject.Properties.Resources.resources
+c:\users\josip\documents\visual studio 2015\Projects\KnapsackGroupsProject\KnapsackGroupsProject\obj\Debug\KnapsackGroupsProject.csproj.GenerateResource.Cache
+c:\users\josip\documents\visual studio 2015\Projects\KnapsackGroupsProject\KnapsackGroupsProject\obj\Debug\KnapsackGroupsProject.exe
+c:\users\josip\documents\visual studio 2015\Projects\KnapsackGroupsProject\KnapsackGroupsProject\obj\Debug\KnapsackGroupsProject.pdb

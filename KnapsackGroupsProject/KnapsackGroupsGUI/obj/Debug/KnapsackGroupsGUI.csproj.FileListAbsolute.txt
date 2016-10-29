@@ -1,0 +1,12 @@
+C:\Users\Josip\Documents\Visual Studio 2015\Projects\KnapsackGroupsProject\KnapsackGroupsGUI\bin\Debug\KnapsackGroupsGUI.exe.config
+C:\Users\Josip\Documents\Visual Studio 2015\Projects\KnapsackGroupsProject\KnapsackGroupsGUI\bin\Debug\KnapsackGroupsGUI.exe
+C:\Users\Josip\Documents\Visual Studio 2015\Projects\KnapsackGroupsProject\KnapsackGroupsGUI\bin\Debug\KnapsackGroupsGUI.pdb
+C:\Users\Josip\Documents\Visual Studio 2015\Projects\KnapsackGroupsProject\KnapsackGroupsGUI\bin\Debug\KnapsackGroupsProject.exe
+C:\Users\Josip\Documents\Visual Studio 2015\Projects\KnapsackGroupsProject\KnapsackGroupsGUI\bin\Debug\KnapsackGroupsProject.pdb
+C:\Users\Josip\Documents\Visual Studio 2015\Projects\KnapsackGroupsProject\KnapsackGroupsGUI\obj\Debug\KnapsackGroupsGUI.csprojResolveAssemblyReference.cache
+C:\Users\Josip\Documents\Visual Studio 2015\Projects\KnapsackGroupsProject\KnapsackGroupsGUI\obj\Debug\KnapsackGroupsProject.FormHelp.resources
+C:\Users\Josip\Documents\Visual Studio 2015\Projects\KnapsackGroupsProject\KnapsackGroupsGUI\obj\Debug\KnapsackGroupsProject.FormMain.resources
+C:\Users\Josip\Documents\Visual Studio 2015\Projects\KnapsackGroupsProject\KnapsackGroupsGUI\obj\Debug\KnapsackGroupsGUI.Properties.Resources.resources
+C:\Users\Josip\Documents\Visual Studio 2015\Projects\KnapsackGroupsProject\KnapsackGroupsGUI\obj\Debug\KnapsackGroupsGUI.csproj.GenerateResource.Cache
+C:\Users\Josip\Documents\Visual Studio 2015\Projects\KnapsackGroupsProject\KnapsackGroupsGUI\obj\Debug\KnapsackGroupsGUI.exe
+C:\Users\Josip\Documents\Visual Studio 2015\Projects\KnapsackGroupsProject\KnapsackGroupsGUI\obj\Debug\KnapsackGroupsGUI.pdb

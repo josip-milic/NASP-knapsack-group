@@ -1,0 +1,16 @@
+﻿C=20
+#Redatelji
+Steven Spielberg=15;8
+Quentin Tarantino=11;4
+Ridley Scott=5;4
+Christopher Nolan=8;3
+#Glumci i glumice
+Jack Nicholson=12;5
+Daniel Day-Lewis=18;8
+Emily Blunt=20;11
+Brad Pitt=14;5
+#Scenaristi
+Paul Schrader=8;4
+Joel Coen=9;6
+Oliver Stone=6;3
+Danny Boyle=10;5

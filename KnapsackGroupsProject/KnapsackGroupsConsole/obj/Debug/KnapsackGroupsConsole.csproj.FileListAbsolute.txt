@@ -1,0 +1,8 @@
+C:\Users\Josip\Documents\Visual Studio 2015\Projects\KnapsackGroupsProject\KnapsackGroupsConsole\bin\Debug\KnapsackGroupsConsole.exe.config
+C:\Users\Josip\Documents\Visual Studio 2015\Projects\KnapsackGroupsProject\KnapsackGroupsConsole\bin\Debug\KnapsackGroupsConsole.exe
+C:\Users\Josip\Documents\Visual Studio 2015\Projects\KnapsackGroupsProject\KnapsackGroupsConsole\bin\Debug\KnapsackGroupsConsole.pdb
+C:\Users\Josip\Documents\Visual Studio 2015\Projects\KnapsackGroupsProject\KnapsackGroupsConsole\bin\Debug\KnapsackGroupsProject.exe
+C:\Users\Josip\Documents\Visual Studio 2015\Projects\KnapsackGroupsProject\KnapsackGroupsConsole\bin\Debug\KnapsackGroupsProject.pdb
+C:\Users\Josip\Documents\Visual Studio 2015\Projects\KnapsackGroupsProject\KnapsackGroupsConsole\obj\Debug\KnapsackGroupsConsole.csprojResolveAssemblyReference.cache
+C:\Users\Josip\Documents\Visual Studio 2015\Projects\KnapsackGroupsProject\KnapsackGroupsConsole\obj\Debug\KnapsackGroupsConsole.exe
+C:\Users\Josip\Documents\Visual Studio 2015\Projects\KnapsackGroupsProject\KnapsackGroupsConsole\obj\Debug\KnapsackGroupsConsole.pdb
